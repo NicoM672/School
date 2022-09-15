@@ -1,0 +1,94 @@
+
+Menu
+1. Display movies sorted by id
+2. Display movies sorted by release date, then rating
+3. Lookup a release date given a name
+4. Lookup a movie by id
+5. Quit the Program
+Enter your choice:
+100
+Please enter 1, 2, 3, 4, or 5:
+1
+ID Name                      Date        Rating
+1  Pulp Fiction              1994/10/14  8.9
+2  The Godfather             1972/04/24  9.2
+3  The Dark Knight           2008/07/18  9.0
+4  The Godfather: Part II    1974/12/18  9.0
+6  The Shawshank Redemption  1994/10/14  9.3
+7  Schindler's List          1994/02/04  8.9
+
+Menu
+1. Display movies sorted by id
+2. Display movies sorted by release date, then rating
+3. Lookup a release date given a name
+4. Lookup a movie by id
+5. Quit the Program
+Enter your choice:
+2
+ID Name                      Date        Rating
+2  The Godfather             1972/04/24  9.2
+4  The Godfather: Part II    1974/12/18  9.0
+7  Schindler's List          1994/02/04  8.9
+6  The Shawshank Redemption  1994/10/14  9.3
+1  Pulp Fiction              1994/10/14  8.9
+3  The Dark Knight           2008/07/18  9.0
+
+Menu
+1. Display movies sorted by id
+2. Display movies sorted by release date, then rating
+3. Lookup a release date given a name
+4. Lookup a movie by id
+5. Quit the Program
+Enter your choice:
+3
+Please enter a movie name:
+The Shawshank Redemption
+Release date of 'The Shawshank Redemption' is 1994/10/14
+
+Menu
+1. Display movies sorted by id
+2. Display movies sorted by release date, then rating
+3. Lookup a release date given a name
+4. Lookup a movie by id
+5. Quit the Program
+Enter your choice:
+3
+Please enter a movie name:
+The Redemption
+No movie found with name: The Redemption
+
+Menu
+1. Display movies sorted by id
+2. Display movies sorted by release date, then rating
+3. Lookup a release date given a name
+4. Lookup a movie by id
+5. Quit the Program
+Enter your choice:
+4
+Please enter a movie id:
+3
+ID Name                      Date        Rating
+3  The Dark Knight           2008/07/18  9.0
+
+Menu
+1. Display movies sorted by id
+2. Display movies sorted by release date, then rating
+3. Lookup a release date given a name
+4. Lookup a movie by id
+5. Quit the Program
+Enter your choice:
+4
+Please enter a movie id:
+5
+No movie found with id: 5
+
+Menu
+1. Display movies sorted by id
+2. Display movies sorted by release date, then rating
+3. Lookup a release date given a name
+4. Lookup a movie by id
+5. Quit the Program
+Enter your choice:
+5
+Exiting the program...
+
