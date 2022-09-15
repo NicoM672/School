@@ -1,0 +1,84 @@
+Add to the top
+0: Disaster Movie
+1: Superbabies: Baby Geniuses 2
+2: Code Name: K.O.Z.
+3: Manos: The Hands of Fate
+4: Birdemic: Shock and Terror
+
+Add to the bottom and to the top
+0: Disaster Movie
+1: Superbabies: Baby Geniuses 2
+2: Code Name: K.O.Z.
+3: Manos: The Hands of Fate
+4: Birdemic: Shock and Terror
+
+Remove a movie
+Movie is removed
+0: Disaster Movie
+1: Superbabies: Baby Geniuses 2
+2: Code Name: K.O.Z.
+3: Birdemic: Shock and Terror
+
+Remove the first movie
+Movie is removed
+0: Superbabies: Baby Geniuses 2
+1: Code Name: K.O.Z.
+2: Manos: The Hands of Fate
+3: Birdemic: Shock and Terror
+
+Try to remove a non-existing movie
+Movie is not removed
+0: Disaster Movie
+1: Superbabies: Baby Geniuses 2
+2: Code Name: K.O.Z.
+3: Manos: The Hands of Fate
+4: Birdemic: Shock and Terror
+
+Delete all movies (should be empty)
+
+Move a movie to the top
+Movie is moved
+0: Code Name: K.O.Z.
+1: Disaster Movie
+2: Superbabies: Baby Geniuses 2
+3: Manos: The Hands of Fate
+4: Birdemic: Shock and Terror
+
+Try to move a non-existing movie to the top
+Movie is not moved
+0: Disaster Movie
+1: Superbabies: Baby Geniuses 2
+2: Code Name: K.O.Z.
+3: Manos: The Hands of Fate
+4: Birdemic: Shock and Terror
+
+Move a movie
+Movie is moved
+0: Superbabies: Baby Geniuses 2
+1: Code Name: K.O.Z.
+2: Manos: The Hands of Fate
+3: Disaster Movie
+4: Birdemic: Shock and Terror
+
+Try to move a non-existing movie
+Movie is not moved
+0: Disaster Movie
+1: Superbabies: Baby Geniuses 2
+2: Code Name: K.O.Z.
+3: Manos: The Hands of Fate
+4: Birdemic: Shock and Terror
+
+Test next larger: Next larger to 'Manos: The Hands of Fate' is 'Superbabies: Baby Geniuses 2'
+
+Test next larger without next larger: Next larger to 'Z' is ''
+
+Display sorted movies
+0: Birdemic: Shock and Terror
+1: Code Name: K.O.Z.
+2: Disaster Movie
+3: Manos: The Hands of Fate
+4: Superbabies: Baby Geniuses 2
+
+
+Process finished with exit code 0
+
